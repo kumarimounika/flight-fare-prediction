@@ -1,6 +1,7 @@
 # flight-fare-prediction
 dataset are collected  from kaggle.com and various machine learning analysis is done.
 few of the alogithm used in this project are:
+
 1.linear regression. 
 
 2.decision tree regreession.
